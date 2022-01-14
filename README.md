@@ -16,6 +16,10 @@
 <a href = "https://it.linkedin.com/in/dario-di-dario-1a0887172"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
 <a href = "mailto:dariodidario97@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png"/>
 <a href = "mailto:d.didario@studenti.unisa.it"><img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png"/>
+  
+<p align = "center">
+  <img src = "https://komarev.com/ghpvc/?username=Dariucc07&color=red">
+</p>
 <!--
 **Dariucc07/dariucc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
