@@ -8,7 +8,7 @@
 - 🎓 In 2019 I got the Bachelor's degree in Computer Science at @ University of Salerno
 - 🔭 I'm working on a new tool for predicting software vulnerabilities inside projects
 - 🥅 2022 Goals: Learn as much as I can
-- ⚡ Fun facts: I love motorcycle, especially Ducati brands. I have 2 different Ducati: Hypermotard 939 and Monster+ 950.
+- ⚡ Fun facts: I love motorcycle, especially Ducati brands. I have 2 different Ducati: Streetfighter V4S and Monster+ 950.
 
 #### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <a href = "https://www.facebook.com/dario.didario.3/"><img src="https://img.icons8.com/ios-glyphs/30/000000/facebook.png"/>
