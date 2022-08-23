@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Learn as much as I can
 - ⚡ Fun facts: I love motorcycle, especially Ducati brands. I have 2 different Ducati: Streetfighter V4S and Monster+ 950.
 
-#### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+#### Connect with me 
 <a href = "https://www.facebook.com/dario.didario.3/"><img src="https://img.icons8.com/ios-glyphs/30/000000/facebook.png"/>
 <a href = "https://www.instagram.com/dario_07_seven/"><img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>
 <a href = "https://it.linkedin.com/in/dario-di-dario-1a0887172"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
