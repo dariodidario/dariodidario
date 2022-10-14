@@ -4,11 +4,13 @@
 
 #### 👨💻 About Me
 - Salerno, Campania, Italy
-- 🎓 Currently studing Software Engineering at @ University of Salerno
+- 🧑🏻‍🔬 Currently working as Ph.D Student at @ University of Salerno and @ University of Foggia for "National Ph.D program".
+- 🎓 In 2022 I got the Master's degree (magna cum laude) in Computer Science at @ University of Salerno. Curriculum Software Engineering & IT Management
 - 🎓 In 2019 I got the Bachelor's degree in Computer Science at @ University of Salerno
 - 🔭 I'm working on a new tool for predicting software vulnerabilities inside projects
 - 🥅 2022 Goals: Learn as much as I can
 - ⚡ Fun facts: I love motorcycle, especially Ducati brands. I have 2 different Ducati: Streetfighter V4S and Monster+ 950.
+- 🇱🇻 Completely in love with U.S Salernitana 1919
 
 #### Connect with me 
 <a href = "https://www.facebook.com/dario.didario.3/"><img src="https://img.icons8.com/ios-glyphs/30/000000/facebook.png"/>
