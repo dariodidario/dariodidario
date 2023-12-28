@@ -1,6 +1,6 @@
 ### Hi there, I'm Dario Di Dario! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a student @ University of Salerno, in Software Engineering curriculum
+#### I'm a Ph.D student in Computer Science at @University of Salerno. I am primarly involeved with the Metaverse Engineering and Software Engineering topic.
 
 #### 👨💻 About Me
 - Salerno, Campania, Italy
